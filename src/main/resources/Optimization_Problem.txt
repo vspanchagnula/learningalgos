@@ -1,0 +1,15 @@
+Optimization Problem
+In case where you need to find minimum or maximum result is called Optimization problem.
+
+Strategies used for solving above:
+
+1. Greedy Method
+2. Dynamic Programming
+3. Branch and Bound
+
+Greedy Method : Solve problems in stages where each stage checks if some action is feasible and process accordingly.
+
+Knapsack Problem :
+ You have a bag of 15 kg and you have list of objects with different weights and profits . Identify maximum profit items. Objects can be divisible.
+
+https://www.geeksforgeeks.org/fractional-knapsack-problem/
