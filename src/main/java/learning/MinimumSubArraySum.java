@@ -5,7 +5,7 @@ package learning;
  * Maintain a pointer starting from left and keep incrementing it as soon as sum 
  * calculates so far exceeds given sum.
  *
- *Time complexity O(n) space O(1)
+ * Time complexity O(n) space O(1)
  */
 class MinimumSubArraySum {
     public int minSubArrayLen(int s, int[] nums) {
